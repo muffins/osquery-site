@@ -1,0 +1,14 @@
+{
+  "version": "3.4.0",
+  "url": "https://pkg.osquery.io",
+  "downloads": {
+    "official": [
+      {
+        "type": "Windows",
+        "package": "osquery-3.4.0.msi",
+        "content": "8c72738e6b015a13545e68790217046de78fdcb16bfe4341626dcfcf231ec98f",
+        "platform": "windows"
+      }
+    ]
+  }
+}
